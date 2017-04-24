@@ -55,7 +55,7 @@ li {
       }
 
 .color:hover {
-  transition: transform;
+  transition: transform .5s;
   transform: scale(1.5);
   margin-top: 100px;
 }
