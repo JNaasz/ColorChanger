@@ -26,6 +26,7 @@ li {
   color: white;
   padding-top: 10px;
   border-radius: 5px;
+  cursor: pointer;
   }
 
   #colorBox {
